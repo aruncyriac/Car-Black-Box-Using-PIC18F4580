@@ -5,7 +5,6 @@ Developed an embedded system for a Vehicle Dashboard and Event Logging System wi
 ## Features
 
 - **Default Screen Interface:** Displays current time, vehicle speed, and latest event on an LCD interfaced via I2C.
-- **Secure Login:** 4-digit password authentication with retry limits and timeout handling.
 - **Menu-Driven Interface:** Options to View Log and Set Time, navigable via UP/DOWN keys with long-press actions.
 - **Real-Time Event Logging:** Captures event details, including event signature, timestamp, and vehicle speed.
 - **Persistent Event Storage:** Stores logs in external EEPROM for non-volatile retention and retrieval.
